@@ -1,4 +1,3 @@
-//"https://theiotprojects.com/obstacle-avoiding-robot-using-arduino-and-ultrasonic-sensor/"
 
 #include <AFMotor.h>
 #include <NewPing.h>
